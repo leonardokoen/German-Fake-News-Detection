@@ -23,8 +23,8 @@ Contains code that compute time needed for training and testing.
 
 Datasets: 
 It contains the datasets used in our program for training and testing
-GermanFakeNC
-News
+GermanFakeNC (https://data.mendeley.com/datasets/p4c49m3pvr/3)
+News (https://www.kaggle.com/code/kerneler/starter-fake-news-dataset-german-9cc110a2-9/data)
 
 Datasets\Preprocessed: 
 Contains our preprocessed datasets.
